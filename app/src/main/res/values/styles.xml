@@ -1,0 +1,31 @@
+<resources>
+
+
+    <style name="HeadingTitle">
+        <item name="android:textSize">@dimen/sp15</item>
+        <item name="android:textColor">@color/text_dull_black</item>
+        <item name="android:fontFamily">@font/gotham_bold</item>
+    </style>
+
+    <!--This is for book details styles-->
+
+    <style name="aqi">
+        <item name="android:textSize">@dimen/sp14</item>
+        <item name="android:textColor">@color/text_gray</item>
+        <item name="android:fontFamily">@font/gotham_medium</item>
+    </style>
+
+
+    <style name="time">
+        <item name="android:textSize">@dimen/sp13</item>
+        <item name="android:textColor">@color/dark_gray</item>
+        <item name="android:fontFamily">@font/gotham_regular</item>
+    </style>
+
+    <style name="aqi_quality">
+        <item name="android:textSize">@dimen/sp13</item>
+        <item name="android:textColor">@color/text_gray</item>
+        <item name="android:fontFamily">@font/gotham_medium</item>
+    </style>
+
+</resources>
