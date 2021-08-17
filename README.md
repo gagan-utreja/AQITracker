@@ -1,11 +1,12 @@
 # Technology
-- MVVM architecture and Jetpack tools
+- MVVM architecture and Jetpack tools.
 - Scarlet - a Retrofit inspired WebSocket client for Kotlin, Java, and Android.
-- Android Architecture Components
+- Android Architecture Components.
 - ViewModel and LiveData.
+- Room - To store the database.
 - ReactiveStreams support for LiveData.
 - Dagger - To provide Dependency injection.
-- Timber - use for logs (in deubug mdoe only)
+- Timber - Use for logs (in deubug mdoe only)
 - MPAndroidChart - To represent data in Line chart form
   https://github.com/PhilJay/MPAndroidChart
 
