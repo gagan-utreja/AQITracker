@@ -1,1 +1,1 @@
-# AQITracker
+crypto-tracker
